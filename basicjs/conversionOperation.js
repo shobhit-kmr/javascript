@@ -21,8 +21,33 @@ let score5 = null //typeof is undefined
 
 let isLoggin = 1
 let booleanLoggedIn = Boolean(isLoggin)
-console.log(booleanLoggedIn)
+// console.log(booleanLoggedIn)
 
 // 1=> true, 0=> false
 // "" => false, 
 // "shobhit" => true
+
+
+
+// ************* Operations *******************
+
+let value = 3
+let negvalue = -value
+// console.log(negvalue);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**3);
+// console.log(2/2);
+// console.log(2%3);
+
+str1 = 'shobhit'
+str2 = 'kumar'
+console.log(str1+" "+str2);
+
+console.log('1' + 2); // output is 12 
+console.log(1 + '2'); // output is 12
+console.log(1 + '2' + 2);// output is 122
+console.log(1 + 2 + '2');// output is 32
+console.log('1' + 2 + 2); // output is 122
