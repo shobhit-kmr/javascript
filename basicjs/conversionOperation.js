@@ -51,3 +51,5 @@ console.log(1 + '2'); // output is 12
 console.log(1 + '2' + 2);// output is 122
 console.log(1 + 2 + '2');// output is 32
 console.log('1' + 2 + 2); // output is 122
+
+
