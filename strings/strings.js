@@ -30,5 +30,7 @@ const url = "https://google.com//boby%20swaroop"
 
 // console.log(url.includes("rahul")); // to check url strings
 
+// link youtube : https://youtu.be/4CXcK7f8FZE?si=3NYwvpSvI8nU4tbW
+
 const nameSecond = "aftab-alam-com"
 console.log(nameSecond.split("-"));
