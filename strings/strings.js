@@ -22,15 +22,16 @@ const strName = "   rahul   "
 
 // url rewrite using string methods
 
-const url = "https://google.com//boby%20swaroop"
+const url = "https://google.com//rahul%20swaroop"
+console.log(url);
 
 // console.log(url.replace('%20',"-"));// replace url to %20 to  -
 
 // console.log(url.includes("com")); // to check url strings
 
-// console.log(url.includes("rahul")); // to check url strings
+console.log(url.includes("rahul")); // to check url strings
 
 // link youtube : https://youtu.be/4CXcK7f8FZE?si=3NYwvpSvI8nU4tbW
 
-const nameSecond = "aftab-alam-com"
-console.log(nameSecond.split("-"));
+// const nameSecond = "aftab-alam-com"
+// console.log(nameSecond.split("-"));
